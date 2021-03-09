@@ -11,7 +11,7 @@ public class BonusBalance {
         int totalbalance = income + bonus + balance;
 
 
-        System.out.println("bonus: " + bonus);
-        System.out.println("totalbalance: " + totalbalance);
+        System.out.println("Bonus: " + bonus);
+        System.out.println("Total Balance: " + totalbalance);
     }
 }
