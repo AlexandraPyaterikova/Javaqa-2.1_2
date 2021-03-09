@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
     int income = 5000;
+    int balance = 300;
     int bonus;
     if (income >= 1000) {
    bonus = income / 100 * 1;
