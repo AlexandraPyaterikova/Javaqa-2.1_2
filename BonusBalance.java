@@ -1,10 +1,10 @@
-public class Main {
+public class BonusBalance {
     public static void main(String[] args) {
         int income = 20;
         int balance = 300;
         int bonus;
         if (income >= 1000) {
-            bonus = income / 100 * 1;
+            bonus = income / 100;
         } else {
             bonus = 0;
         }
